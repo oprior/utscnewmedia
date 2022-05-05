@@ -6,19 +6,19 @@ Here you will be able to test out code from class!
 
 ### Section 1: Introduction to p5.js
   * [Hello World!](/utscnewmedia/week1/helloWorld)
-  * [Basic Template](/week1/basicTemplate)
-  * [Adaptive Template](/adaptiveTemplate)
+  * [Basic Template](/utscnewmedia/week1/basicTemplate)
+  * [Adaptive Template](/utscnewmedia/adaptiveTemplate)
   
 ### Coordinates and Shapes
-  * [Coordinates](/week1/cooridnates)
-  * [Cross Hair Lines](/crossHairlines)
-  * [Ellipses, Rectangles, and Triangles](/basicShapes)
+  * [Coordinates](/utscnewmedia/week1/cooridnates)
+  * [Cross Hair Lines](/utscnewmedia/crossHairlines)
+  * [Ellipses, Rectangles, and Triangles](/utscnewmedia/basicShapes)
   
 ### Mouse Events
-  * [Click Event](/week1/clickEvent)
-  * [Click & Colour Change](/clickColourChange)
-  * [Click & Release Event](/clickAndReleaseEvent)
-  * [Move Mouse Event](/moveMouseEvent)
-  * [Mouse Hover Event](/mouseHoverEvent)
-  * [Draw with Mouse](/drawLines)
+  * [Click Event](/utscnewmedia/week1/clickEvent)
+  * [Click & Colour Change](/utscnewmedia/clickColourChange)
+  * [Click & Release Event](/utscnewmedia/clickAndReleaseEvent)
+  * [Move Mouse Event](/utscnewmedia/moveMouseEvent)
+  * [Mouse Hover Event](/utscnewmedia/mouseHoverEvent)
+  * [Draw with Mouse](/utscnewmedia/drawLines)
 
