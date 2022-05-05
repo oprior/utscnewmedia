@@ -5,12 +5,12 @@
   * [Basic Template](/basicTemplate)
   * [Adaptive Template](/adaptiveTemplate)
   
-## Coordinates and Shapes
+## Section 2: Coordinates and Shapes
   * [Coordinates](/cooridnates)
   * [Cross Hair Lines](/crossHairlines)
   * [Ellipses, Rectangles, and Triangles](/basicShapes)
   
-## Mouse Events
+## Section3: Mouse Events
   * [Click Event](/clickEvent)
   * [Click & Colour Change](/clickColourChange)
   * [Click & Release Event](/clickAndReleaseEvent)
