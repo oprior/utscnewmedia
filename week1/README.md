@@ -10,7 +10,7 @@
   * [Cross Hair Lines](/crossHairlines)
   * [Ellipses, Rectangles, and Triangles](/basicShapes)
   
-## Section3: Mouse Events
+## Section 3: Mouse Events
   * [Click Event](/clickEvent)
   * [Click & Colour Change](/clickColourChange)
   * [Click & Release Event](/clickAndReleaseEvent)
