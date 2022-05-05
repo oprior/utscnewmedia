@@ -17,3 +17,7 @@
   * [Move Mouse Event](/moveMouseEvent)
   * [Mouse Hover Event](/mouseHoverEvent)
   * [Draw with Mouse](/drawLines)
+  
+## Section 4: Mouse EventsCounter Events
+  * [Counter Example](/counterExample)
+  * [Counter & Reset Button](/resetButton)
