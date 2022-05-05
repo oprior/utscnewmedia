@@ -11,8 +11,8 @@ Here you will be able to test out code from class!
   
 ### Section 2: Coordinates and Shapes
   * [Coordinates](/utscnewmedia/week1/coordinates)
-  * [Cross Hair Lines](/utscnewmedia/crossHairlines)
-  * [Ellipses, Rectangles, and Triangles](/utscnewmedia/basicShapes)
+  * [Cross Hair Lines](/utscnewmedia/week1/crossHairlines)
+  * [Ellipses, Rectangles, and Triangles](/utscnewmedia/week1/basicShapes)
   
 ### Section 3: Mouse Events
   * [Click Event](/utscnewmedia/week1/clickEvent)
