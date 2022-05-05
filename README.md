@@ -21,4 +21,7 @@ Here you will be able to test out code from class!
   * [Move Mouse Event](/utscnewmedia/moveMouseEvent)
   * [Mouse Hover Event](/utscnewmedia/mouseHoverEvent)
   * [Draw with Mouse](/utscnewmedia/drawLines)
-
+  
+### Counter Events
+  * [Counter](/utscnewmedia/week1/counterExample)
+  * [Counter & Reset Button](/utscnewmedia/week1/resetButton)
