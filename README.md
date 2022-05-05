@@ -5,7 +5,7 @@ Here you will be able to test out code from class!
 ## Week 1 Examples
 
 ### Section 1: Introduction to p5.js
-  * [Hello World!](/week1/helloWorld)
+  * [Hello World!](/.../week1/helloWorld)
   * [Basic Template](/week1/basicTemplate)
   * [Adaptive Template](/adaptiveTemplate)
   
