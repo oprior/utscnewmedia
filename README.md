@@ -9,12 +9,12 @@ Here you will be able to test out code from class!
   * [Basic Template](/utscnewmedia/week1/basicTemplate)
   * [Adaptive Template](/utscnewmedia/adaptiveTemplate)
   
-### Coordinates and Shapes
+### Section 2: Coordinates and Shapes
   * [Coordinates](/utscnewmedia/week1/cooridnates)
   * [Cross Hair Lines](/utscnewmedia/crossHairlines)
   * [Ellipses, Rectangles, and Triangles](/utscnewmedia/basicShapes)
   
-### Mouse Events
+### Section 3: Mouse Events
   * [Click Event](/utscnewmedia/week1/clickEvent)
   * [Click & Colour Change](/utscnewmedia/clickColourChange)
   * [Click & Release Event](/utscnewmedia/clickAndReleaseEvent)
@@ -22,6 +22,6 @@ Here you will be able to test out code from class!
   * [Mouse Hover Event](/utscnewmedia/mouseHoverEvent)
   * [Draw with Mouse](/utscnewmedia/drawLines)
   
-### Counter Events
+### Section 4: Counter Events
   * [Counter](/utscnewmedia/week1/counterExample)
   * [Counter & Reset Button](/utscnewmedia/week1/resetButton)
