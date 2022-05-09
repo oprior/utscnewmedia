@@ -13,7 +13,7 @@ Here you will be able to test out code from class!
   * [Coordinates](/utscnewmedia/week1/coordinates)
   * [Cross Hair Lines](/utscnewmedia/week1/crossHairlines)
   * [Ellipses, Rectangles, and Triangles](/utscnewmedia/week1/basicShapes)
-  * [Ellipse with mouseX & mouseY coorindates](/utscnewmedia/week1/mouseCursorCoordinates)
+  * [Ellipse with mouseX & mouseY coordinates](/utscnewmedia/week1/mouseCursorCoordinates)
   
 ### Section 3: Mouse Events
   * [Click Event](/utscnewmedia/week1/clickEvent)
