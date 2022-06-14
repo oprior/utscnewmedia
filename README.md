@@ -27,21 +27,28 @@ Here you will be able to test out code from class!
   * [Counter](/utscnewmedia/week1/counterExample)
   * [Counter & Reset Button](/utscnewmedia/week1/resetButton)
 
-## Week 6 Examples
+## Week 5 Examples
 
 ### Section 1: Occupancy
 
-  * [Occupancy](/utscnewmedia/week6/singlePage_Presence)
-  * [Occupancy Interaction](/utscnewmedia/week6/singlePage_Presence_Interaction)
+## Week 6 Examples
+
+### Section 1: PubNub Examples
+
+  * [Show all cursors](/utscnewmedia/Week%205/01_showCursors)
+  * [Show every message of a cursor](/utscnewmedia/Week%205/02_keepCursors)
+  * [Sends messages](/utscnewmedia/Week%205/03_textSubmit)
+  * [Voting & counting messages](/utscnewmedia/Week%205/04_voting)
+  * [Slow the movie down with amount of people](/utscnewmedia/Week%205/05_slowMovieDown)
 
 ### Section 2: Multi-Page
 
-  * [Multi-Page p5.js Example](/utscnewmedia/week6/multiPages_Example)
-  * [Multi-Page with PubNub](/utscnewmedia/week6/multiPages_pubnub)
+  * [Multi-Page p5.js Example](/utscnewmedia/Week%206/multiPages_Example)
+  * [Multi-Page with PubNub](/utscnewmedia/Week%206/multiPages_pubnub)
 
 ### Section 2: Parameters
 
-  * [Multi-Page](/utscnewmedia/week6/multiPages_userInfo_UI)
-  * [Multi-Page with PubNub](/utscnewmedia/week6/multiPages_sendReceive)
+  * [Multi-Page](/utscnewmedia/Week%206/multiPages_userInfo_UI)
+  * [Multi-Page with PubNub](/utscnewmedia/Week%206/multiPages_sendReceive)
 
   
