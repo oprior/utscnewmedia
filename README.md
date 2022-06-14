@@ -47,12 +47,12 @@ Here you will be able to test out code from class!
 
 ### Section 2: Multi-Page
 
-  * [Multi-Page p5.js Example](/utscnewmedia/Week%206/multiPages_Example)
-  * [Multi-Page with PubNub](/utscnewmedia/Week%206/multiPages_pubnub)
+  * [Multi-Page p5.js Example](/utscnewmedia/Week%206/multiplePages_Example)
+  * [Multi-Page with PubNub](/utscnewmedia/Week%206/multiplePages_pubnub)
 
 ### Section 2: Parameters
 
-  * [Multi-Page](/utscnewmedia/Week%206/multiPages_userInfo_UI)
-  * [Multi-Page with PubNub](/utscnewmedia/Week%206/multiPages_sendReceive)
+  * [Multi-Page](/utscnewmedia/Week%206/multiplePages_userInfo_UI)
+  * [Multi-Page with PubNub](/utscnewmedia/Week%206/multiplePages_sendReceive)
 
   
