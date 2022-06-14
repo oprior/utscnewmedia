@@ -29,10 +29,6 @@ Here you will be able to test out code from class!
 
 ## Week 5 Examples
 
-### Section 1: Occupancy
-
-## Week 6 Examples
-
 ### Section 1: PubNub Examples
 
   * [Show all cursors](/utscnewmedia/Week%205/01_showCursors)
@@ -40,6 +36,14 @@ Here you will be able to test out code from class!
   * [Sends messages](/utscnewmedia/Week%205/03_textSubmit)
   * [Voting & counting messages](/utscnewmedia/Week%205/04_voting)
   * [Slow the movie down with amount of people](/utscnewmedia/Week%205/05_slowMovieDown)
+
+
+## Week 6 Examples
+
+### Section 1: Occupancy
+
+  * [Show all cursors](/utscnewmedia/Week%206/singlePage_presence)
+  * [Show every message of a cursor](/utscnewmedia/Week%206/singlePage_presence_interaction)
 
 ### Section 2: Multi-Page
 
