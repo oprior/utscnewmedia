@@ -66,8 +66,8 @@ because the chart looks different in every second as the data of the audio build
 richness and the ellipses change based on the data over time. The idea of this project 
 is inspired by emotions/feelings chart which is a colorful wheel used by parents to 
 know their children’s feeling. 
- 
-Through visualizing the audience’s audio, this project encourages audience to think 
+
+>Through visualizing the audience’s audio, this project encourages audience to think 
 and confess today’s mood and feeling. In this fast-paced age, things are happening 
 and changing very quickly. We are overwhelmed by busy schedule and complex 
 relationships, but seldom sit down and ask ourselves, “Am I happy today?” The artist 
