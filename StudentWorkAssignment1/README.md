@@ -144,7 +144,7 @@ things.
 
 <br/>
 
-### Kun Peng Tang | [Untitled](/utscnewmedia/StudentWorkAssignment1/KunPengTang)
+### Kun Peng Tang | [Untitled](/utscnewmedia/StudentWorkAssignment1/kunPengTang)
 <details>
   <summary>Project Description</summary>
   <br/>
@@ -238,7 +238,7 @@ today.
 </details>
 <br/>
 
-### Roy Sun | [See-Wave](/utscnewmedia/StudentWorkAssignment1/roySun)
+### Roy Sun | [Untitled](/utscnewmedia/StudentWorkAssignment1/roySun)
 <details>
   <summary>Project Description</summary>
   <br/>
