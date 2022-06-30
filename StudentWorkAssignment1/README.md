@@ -143,6 +143,7 @@ things.
 </details>
 
 <br/>
+
 ### Kun Peng Tang | [Untitled](/utscnewmedia/StudentWorkAssignment1/KunPengTang)
 <details>
   <summary>Project Description</summary>
@@ -194,6 +195,7 @@ emergency after being in effect for 777days.
 </details>
 
 <br/>
+
 ### Luliao Qu | [Untitled](/utscnewmedia/StudentWorkAssignment1/luliaoQu)
 <details>
   <summary>Project Description</summary>
@@ -262,6 +264,7 @@ demonstrated through my videos and photographs, and because time is leaner my da
 also able to showcase a timeline accordingly in its timely order.
 </details>
 
+</br>
 
 ### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
