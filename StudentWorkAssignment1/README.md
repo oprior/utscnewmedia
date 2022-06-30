@@ -238,33 +238,6 @@ today.
 </details>
 <br/>
 
-### Roy Sun | [Untitled](/utscnewmedia/StudentWorkAssignment1/roySun)
-<details>
-  <summary>Project Description</summary>
-  <br/>
-For this project I initially wanted to use videos from the same timeline to illustrate data and 
-time for simplicity purposes, but unfortunately the result was not as prominent as it could be. 
-My intention of this project is to bring out the contrast with different timelines. I then created a 
-questionnaire where the audience can choose and select from different timelines to play, which 
-can also demonstrate the use of time within the integrity of this project. 
-  
-The theme for this project I have chosen is Covid. I’ve been away from families and friends from 
-China since 2016 for coming abroad to study, and since covid started almost three years ago I 
-have not been visiting home. The entire project was revolving around the idea of series of data 
-during covid period. Three different timelines were introduced, three days, three months, and 
-three years. The three days category captured a plant of mine, Monstera, a recent hobby I’ve 
-picked up where I’ve never thought I would. Three months was documenting my body 
-transformation which also happened during Covid, where I unsurprisingly followed through also 
-due to Covid. As for the three years, I’ve decided to showcase my beloved fury family members, 
-my two Shiba Inus, they’ve accompanied me through Covid where I’ve struggled the most with 
-stress and anxiety.
-  
-I believe this simple questionnaire is able to justify the relationship of data and time. Data was 
-demonstrated through my videos and photographs, and because time is leaner my datas were 
-also able to showcase a timeline accordingly in its timely order.
-</details>
-
-</br>
 
 ### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
