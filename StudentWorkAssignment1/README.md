@@ -19,7 +19,7 @@ Data builds in richness and density over time. In this assignment, you will use 
   Also, in creating this artwork, I faced three challenges. The first challenge was that outputting random lines with the random RGB colours resulted in less beautiful pictures. Therefore, to make unique pictures beautiful every minute, I wrote a code which finally tries to select similar numbers with the RGB color which sets every minute. The second challenge was how to express different ways of spending time while sharing 'the same amount of time." Then, I came up with using a QR code to share the code to create their own unique picture per minute. There is no physical input because no one cannot control time. The third challenge was how to update each minute on the canvas. Unfortunately, I did not know how to erase the outputted subject from the canvas, so I created a code in which lines are densely overlaid to realize time updates.
 </details>
 
-
+```
 ### Linjun He  | [Untitled](/utscnewmedia/StudentWorkAssignment1/linjunHe/)
 
 <details>
@@ -36,7 +36,7 @@ many times you try, you just can't get it done. At the same time, I also randoml
 mouse clicks, so I can see how many times the mouse is clicked at any time. 
 </details>
 
-
+```
 ### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/StudentWorkAssignment1/tylerKim)
 <details>
   <summary>Project Description</summary>
@@ -59,7 +59,7 @@ media and simply unable to put their phones down and are constantly consuming an
 can to get more “dopamine and serotonin”.
 </details>
 
-  
+  ```
 ### Jennifer Kuang | [Today's Mood Chart](/utscnewmedia/StudentWorkAssignment1/jenniferKuang)
 <details>
   <summary>Project Description</summary>
@@ -85,7 +85,7 @@ relationships, but seldom sit down and ask ourselves, “Am I happy today?” Th
 hopes that this work can make the audience become aware of their own everyday 
 moods and emotional changes,   
 </details>
-
+```
   
 ### Myuri Srikugan | [More Progression](/utscnewmedia/StudentWorkAssignment1/myuriSrikugan)
 <details>
@@ -114,7 +114,7 @@ occur, awareness must be brought to issues that are often ignored. Through More
 Progression, I hope to bring awareness to a few taunting issues present in Canada
 today. 
 </details>
-
+```
 ### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
   <summary>Project Description</summary>
