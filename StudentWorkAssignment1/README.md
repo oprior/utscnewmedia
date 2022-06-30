@@ -86,7 +86,72 @@ and confess today’s mood and feeling. In this fast-paced age, things are happe
 and changing very quickly. We are overwhelmed by busy schedule and complex 
 relationships, but seldom sit down and ask ourselves, “Am I happy today?” The artist 
 hopes that this work can make the audience become aware of their own everyday 
-moods and emotional changes,   
+moods and emotional changes.   
+</details>
+
+<br/>### Kun Peng Tang| [Untitled](/utscnewmedia/StudentWorkAssignment1/KunPengTang)
+<details>
+  <summary>Project Description</summary>
+  <br/>
+The dates shown in this project all are important dates that happened in the past two years 
+against the coronavirus. Sixteen dates appeared in my project, and these sixteen different dates 
+all recorded a critical event that happened on that day. In the project, I also added a clock, and I 
+want to remind people that time is passing, but never forget the moments that damaged our life. 
+During the coronavirus outbreak, sixteen events happened on sixteen different dates that have 
+caused different levels of damage to my life and people's lives. Through this project, I want to 
+record these dates forever so that the residents of this city and I can firmly remember the 
+moments that the coronavirus did to our lives in the past two years.
+The sixteen critical events that occurred on these sixteen dates are:
+1. On January 23. 2020, the first identified case of Covid-19 in Toronto, means our life will 
+change.
+2. In March 17.2020, Ontario declared its first emergency during the pandemic outbreak.
+3. From March 23.2020 to June 24.2020, the city was locked down for the first time, and the 
+government limited the operation of important businesses.
+4. On July 7.2020, Toronto introduced mask requirements for all public indoors. From that day, 
+the mask became an essential item in our life.
+5. On July 31.2020, the city of Toronto went into stage 3 open, which is the gym and all other 
+public places are allowed to reopen, and we finally can get in touch with people and socialize with 
+others.
+6. On August 10.2020, it was the first summer after the coronavirus outbreak, and the city saw a 
+significant decline in new cases.
+7. From September 1.2020 to October 1.2020, affected cases began to rise steadily, Toronto, the 
+peel region, the York Region, and Ottawa went back into stage 2 again because of the rising viral 
+spread, and all the cinemas, gyms, bars, etc. closed again.
+8. In July 23.2020, the city of Toronto was placed under lockdown again, and our life returned to 
+isolation again.
+9. On December 15.2020, with the overall plans for Covid-19 vaccinations across Canada, people 
+have more hopes against the virus.
+10. On December 26.2020, the government declared a province-wide shutdown. All the people in 
+Ontario had to stay at home and cut off social contact with others.
+11. On January 1.2021, the province declared stay-at-home orders for the entire province. It was 
+the craziest order I have ever heard because the government did not recommend people go out for 
+any unessential activity, such as driving around.
+12. On March 8.2021, Toronto temporarily cancelled the stay-at-home orders, and people could 
+finally go out.
+13. On April 3.2021, following an uptick in new cases in Ontario, the province was exacerbated 
+by more aggressive variants of SARS-CoV-2, and the virus became more infectious and 
+dangerous.
+14. On June 2.2021, the province finally started to reopen, and stages reopened the city of 
+Toronto.
+15. On March 21.2022, most provincial masking regulations were lifted by the government, so 
+people could finally choose to wear masks or not according to their wishes.
+16. On May 9.2022, the mayor John announced the termination of Toronto's Covid-19 state of 
+emergency after being in effect for 777days.
+</details>
+
+<br/>
+
+<br/>### Luliao Qu | [Untitled](/utscnewmedia/StudentWorkAssignment1/luliaoQu)
+<details>
+  <summary>Project Description</summary>
+  <br/>
+In  this  project,  I  decided  to  to  a  project  about  time.  The  theme  of  this  project  is  peaceful, 
+slow flow of life can let me feel relax and peaceful. When I need to relax, I always choose to sit 
+on my balcony to view the scene. So, in this project I shoot the daylight view on my balcony and 
+the  night  view  on  it.  I  also  recorded  the  sound  on  the  balcony  to  let  the  audience  feeling  more 
+about the atmosphere. I used p5 to write a code to show the day view and night view, when the 
+mouse touch the picture, it will changed into different views. When I show this project in class, i 
+want my classmates feel peaceful and relax.  
 </details>
 
 <br/>
