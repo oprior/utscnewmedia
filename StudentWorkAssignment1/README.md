@@ -9,6 +9,26 @@ Data builds in richness and density over time. In this assignment, you will use 
 
 ## Student Work
 
+### Kexin Dong | [Untitled](/utscnewmedia/StudentWorkAssignment1/kexinDong)
+
+<details>
+  <summary>Project Description</summary>
+<br/>  
+For this assignment, I learned a lot of new code usage. The theme I chose is 
+tree rings because I think tree rings can directly represent "time and data". I also 
+mentioned in this assignment a timeline of the last two years of Covid-19 in Canada. 
+If you click on the picture, what happens in the month and year will appear. I want to 
+showcase the major events that have affected people's lives in recent years through 
+the media. And use the data to store forever.
+  
+I think this work is challenging and meaningful. Because the things people 
+experience in life are basically in the past tense and will not be deliberately reserved. 
+Of course, I hope you can use the tree rings to record things at each stage. At the 
+same time, you can grow slowly like a tree, and feel the process of growth.
+</details>
+
+<br/>
+
 ### Keita Fujiyama | [Untitled](/utscnewmedia/StudentWorkAssignment1/keitaFujiyama/)
 
 <details>
@@ -89,7 +109,41 @@ hopes that this work can make the audience become aware of their own everyday
 moods and emotional changes.   
 </details>
 
-<br/>### Kun Peng Tang| [Untitled](/utscnewmedia/StudentWorkAssignment1/KunPengTang)
+<br/>
+
+### Liuyi Li  | [Untitled](/utscnewmedia/StudentWorkAssignment1/liuyiLi/)
+
+<details>
+  <summary>Project Description</summary>
+  <br/>
+ For this assignment, I made 6 clocks in a frame that ticking every 
+second with ticking sound. I believe this is a very direct way showing 
+how time flows on my work. For the first four clocks on the left frame, 
+the  shape  and  the  colors  are  designed  by  the  inspirations  of  each 
+country’s flag. Also, the first four clock’s time was exactly based 
+on the real region’s time. (The first one is China, the second one is 
+Ukraine, the third one is Korea and the fourth one is Canada.) 
+  
+For rest 2 clocks that do not have any color except black is the local 
+time. As the assignment instruction illustrated to thinking about how 
+the work could be presented in a gallery, personally I would want these 
+2 clocks without color to showing the local time where the gallery 
+located. I was trying my best distinct the colorless clocks and the 
+regional clocks, so I wanted to be as creative as I can. The first 
+idea came into my mind was “clock does not need to be a circle”. As 
+a result, one clock is totally consisted by numbers and on the middle 
+above. The biggest clock that on the right was an ellipse that consisted 
+by numbers and mathematical symbols. I believe the interesting part is 
+that instead of showing the exact number on the clock the equations 
+could have more fun for visitors to calculate. 
+  
+In  general,  this  frame  was  only  consisted  by  geometric  figures  and 
+characters.  My  intention  was  to  make  aesthetic  out  of  the  simplest 
+things. 
+</details>
+
+<br/>
+### Kun Peng Tang | [Untitled](/utscnewmedia/StudentWorkAssignment1/KunPengTang)
 <details>
   <summary>Project Description</summary>
   <br/>
@@ -140,8 +194,7 @@ emergency after being in effect for 777days.
 </details>
 
 <br/>
-
-<br/>### Luliao Qu | [Untitled](/utscnewmedia/StudentWorkAssignment1/luliaoQu)
+### Luliao Qu | [Untitled](/utscnewmedia/StudentWorkAssignment1/luliaoQu)
 <details>
   <summary>Project Description</summary>
   <br/>
@@ -182,6 +235,33 @@ Progression, I hope to bring awareness to a few taunting issues present in Canad
 today. 
 </details>
 <br/>
+
+### Roy Sun | [See-Wave](/utscnewmedia/StudentWorkAssignment1/roySun)
+<details>
+  <summary>Project Description</summary>
+  <br/>
+For this project I initially wanted to use videos from the same timeline to illustrate data and 
+time for simplicity purposes, but unfortunately the result was not as prominent as it could be. 
+My intention of this project is to bring out the contrast with different timelines. I then created a 
+questionnaire where the audience can choose and select from different timelines to play, which 
+can also demonstrate the use of time within the integrity of this project. 
+  
+The theme for this project I have chosen is Covid. I’ve been away from families and friends from 
+China since 2016 for coming abroad to study, and since covid started almost three years ago I 
+have not been visiting home. The entire project was revolving around the idea of series of data 
+during covid period. Three different timelines were introduced, three days, three months, and 
+three years. The three days category captured a plant of mine, Monstera, a recent hobby I’ve 
+picked up where I’ve never thought I would. Three months was documenting my body 
+transformation which also happened during Covid, where I unsurprisingly followed through also 
+due to Covid. As for the three years, I’ve decided to showcase my beloved fury family members, 
+my two Shiba Inus, they’ve accompanied me through Covid where I’ve struggled the most with 
+stress and anxiety.
+  
+I believe this simple questionnaire is able to justify the relationship of data and time. Data was 
+demonstrated through my videos and photographs, and because time is leaner my datas were 
+also able to showcase a timeline accordingly in its timely order.
+</details>
+
 
 ### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
