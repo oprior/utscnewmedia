@@ -13,18 +13,18 @@ Data builds in richness and density over time. In this assignment, you will use 
 
 <details>
   <summary>Project Description</summary>
-  
+<br/>  
  This artwork is collecting minutes, and more than 100 lines will be outputted every minute to create unique pictures. A reason why I create a time-related artwork is that I sometimes forget how important time is. Time is finite, and we consume the same amount of time during our lives. However, we do not care if a minute has passed because a minute is very short, and it will pass before we realize it. 
   
   Also, in creating this artwork, I faced three challenges. The first challenge was that outputting random lines with the random RGB colours resulted in less beautiful pictures. Therefore, to make unique pictures beautiful every minute, I wrote a code which finally tries to select similar numbers with the RGB color which sets every minute. The second challenge was how to express different ways of spending time while sharing 'the same amount of time." Then, I came up with using a QR code to share the code to create their own unique picture per minute. There is no physical input because no one cannot control time. The third challenge was how to update each minute on the canvas. Unfortunately, I did not know how to erase the outputted subject from the canvas, so I created a code in which lines are densely overlaid to realize time updates.
 </details>
 
-```
+<br/>
 ### Linjun He  | [Untitled](/utscnewmedia/StudentWorkAssignment1/linjunHe/)
 
 <details>
   <summary>Project Description</summary>
-  
+  <br/>
  The theme of my work is that there are some things you can't do no matter how hard you try. My inspiration 
 came  from  our  workshop1.  We  learned  how  to  fill  the  entire  canavas  with  random  shapes.  I  thought 
 backwards  and  tried  to  use  random  graphics  to  clear  the  pattern  on  the  canavas.  This  is  very  interesting. 
@@ -36,11 +36,10 @@ many times you try, you just can't get it done. At the same time, I also randoml
 mouse clicks, so I can see how many times the mouse is clicked at any time. 
 </details>
 
-```
-### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/StudentWorkAssignment1/tylerKim)
+<br/>### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/StudentWorkAssignment1/tylerKim)
 <details>
   <summary>Project Description</summary>
-  
+  <br/>
  In my work “Dopamine and Serotonin”, the program is presented as a simple start button
 followed by a timer, counter for clicks and a button that says click. Upon clicking, a random word
 from a list of words is printed onto the screen in a random size and location. Upon further
@@ -59,10 +58,11 @@ media and simply unable to put their phones down and are constantly consuming an
 can to get more “dopamine and serotonin”.
 </details>
 
-  ```
+ <br/>
 ### Jennifer Kuang | [Today's Mood Chart](/utscnewmedia/StudentWorkAssignment1/jenniferKuang)
 <details>
   <summary>Project Description</summary>
+  <br/>
  Today’s Mood Chart is an interactive p5.js program that visualizes audio and 
 simultaneously generates a chart based on the sound. The program invites audience to 
 reply and response to the question “How is your day today?” in front of the 
@@ -77,7 +77,6 @@ richness and the ellipses change based on the data over time. The idea of this p
 is inspired by emotions/feelings chart which is a colorful wheel used by parents to 
 know their children’s feeling. 
 
-  
 Through visualizing the audience’s audio, this project encourages audience to think 
 and confess today’s mood and feeling. In this fast-paced age, things are happening 
 and changing very quickly. We are overwhelmed by busy schedule and complex 
@@ -97,15 +96,13 @@ some form of struggle that is often dismissed by institutions, the government an
 community. These issues have been present for a long time, yet progression seems to
 be very slow, with some changes causing us to back track instead of progress. We live
 in a world where transphobia is normalized, women are silenced, and men struggle to
-open up about their mental health. 
-  
+open up about their mental health.  
   
  I try to bring awareness to these issues by sharing the views of those that have suffered from certain stigmas and stereotypes. The colour
 of the points for each prompt remains the same to show the interconnectedness of
 struggle between groups that face stigmas. The quotations that appear when hovering
 over points share supportive messages or cries for help from individuals around that
 region of Canada. 
-
   
   The quotations can be very heavy and for that reason I try to create a
 welcoming visually minimalistic yet appealing digital format of delivering these stories
@@ -114,10 +111,11 @@ occur, awareness must be brought to issues that are often ignored. Through More
 Progression, I hope to bring awareness to a few taunting issues present in Canada
 today. 
 </details>
-```
+<br/>
 ### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
   <summary>Project Description</summary>
+  <br/>
 The name of my project is called See-Wave. See-Wave was built with P5.js. It takes sound from microphone as an input and uses FFT (Fast Fourier Transformation) to filter the sound input. We always use computers to extract, transform, load, as well as analyze data. We tend to forget that mouse and keyboard are not the only intermediates that connect us to the computer’s brain. They way microphone takes in our sound is very similar to how we have conversations with people, instead, we are talking to the computer. 
   
   
