@@ -20,7 +20,7 @@ mentioned in this assignment a timeline of the last two years of Covid-19 in Can
 If you click on the picture, what happens in the month and year will appear. I want to 
 showcase the major events that have affected people's lives in recent years through 
 the media. And use the data to store forever.
-  
+  <br/>  
 I think this work is challenging and meaningful. Because the things people 
 experience in life are basically in the past tense and will not be deliberately reserved. 
 Of course, I hope you can use the tree rings to record things at each stage. At the 
@@ -35,7 +35,7 @@ same time, you can grow slowly like a tree, and feel the process of growth.
   <summary>Project Description</summary>
 <br/>  
  This artwork is collecting minutes, and more than 100 lines will be outputted every minute to create unique pictures. A reason why I create a time-related artwork is that I sometimes forget how important time is. Time is finite, and we consume the same amount of time during our lives. However, we do not care if a minute has passed because a minute is very short, and it will pass before we realize it. 
-  
+  <br/>  
   Also, in creating this artwork, I faced three challenges. The first challenge was that outputting random lines with the random RGB colours resulted in less beautiful pictures. Therefore, to make unique pictures beautiful every minute, I wrote a code which finally tries to select similar numbers with the RGB color which sets every minute. The second challenge was how to express different ways of spending time while sharing 'the same amount of time." Then, I came up with using a QR code to share the code to create their own unique picture per minute. There is no physical input because no one cannot control time. The third challenge was how to update each minute on the canvas. Unfortunately, I did not know how to erase the outputted subject from the canvas, so I created a code in which lines are densely overlaid to realize time updates.
 </details>
 
@@ -49,7 +49,7 @@ same time, you can grow slowly like a tree, and feel the process of growth.
  The theme of my work is that there are some things you can't do no matter how hard you try. My inspiration 
 came  from  our  workshop1.  We  learned  how  to  fill  the  entire  canavas  with  random  shapes.  I  thought 
 backwards  and  tried  to  use  random  graphics  to  clear  the  pattern  on  the  canavas.  This  is  very  interesting. 
-
+<br/>  
   What's more interesting is that because I didn't find the right parameters, I can't clear the computer-generated 
 patterns on the canavas when I randomly generate patterns. This got me thinking. In theory, as long as I press 
 the mouse fast enough to clear the canavas. But it can't be done, just like some things in life, no matter how 
@@ -68,7 +68,7 @@ followed by a timer, counter for clicks and a button that says click. Upon click
 from a list of words is printed onto the screen in a random size and location. Upon further
 inspection, the button that says click doesn’t actually have any impact on the program and one
 can click anywhere on the screen to make words pop up.
-  
+  <br/>  
 The idea behind this work comes from interactions on our phones on social media in an attempt
 to produce dopamine and serotonin through various interactions on them. The work attempts to
 simplify the interactions we go through on our phones to the core of the interaction by removing
@@ -94,7 +94,7 @@ microphone. Once the participant speaks, the ellipses on the canvas of the progr
 will simultaneously duplicate and the size and color will also change, which is based 
 on the frequency and volume of the sound. At the end, the participant can save the 
 canvas as an image file, this is their mood chart for today.
-  
+  <br/>  
 This work uses data generated from the audio. Time plays a crucial role in this project 
 because the chart looks different in every second as the data of the audio builds in 
 richness and the ellipses change based on the data over time. The idea of this project 
@@ -123,7 +123,7 @@ the  shape  and  the  colors  are  designed  by  the  inspirations  of  each
 country’s flag. Also, the first four clock’s time was exactly based 
 on the real region’s time. (The first one is China, the second one is 
 Ukraine, the third one is Korea and the fourth one is Canada.) 
-  
+  <br/>  
 For rest 2 clocks that do not have any color except black is the local 
 time. As the assignment instruction illustrated to thinking about how 
 the work could be presented in a gallery, personally I would want these 
@@ -136,7 +136,7 @@ above. The biggest clock that on the right was an ellipse that consisted
 by numbers and mathematical symbols. I believe the interesting part is 
 that instead of showing the exact number on the clock the equations 
 could have more fun for visitors to calculate. 
-  
+  <br/>  
 In  general,  this  frame  was  only  consisted  by  geometric  figures  and 
 characters.  My  intention  was  to  make  aesthetic  out  of  the  simplest 
 things. 
@@ -156,42 +156,59 @@ During the coronavirus outbreak, sixteen events happened on sixteen different da
 caused different levels of damage to my life and people's lives. Through this project, I want to 
 record these dates forever so that the residents of this city and I can firmly remember the 
 moments that the coronavirus did to our lives in the past two years.
+  <br/>  
 The sixteen critical events that occurred on these sixteen dates are:
+  <br/>  
 1. On January 23. 2020, the first identified case of Covid-19 in Toronto, means our life will 
 change.
+  <br/>  
 2. In March 17.2020, Ontario declared its first emergency during the pandemic outbreak.
+  <br/>  
 3. From March 23.2020 to June 24.2020, the city was locked down for the first time, and the 
 government limited the operation of important businesses.
+  <br/>  
 4. On July 7.2020, Toronto introduced mask requirements for all public indoors. From that day, 
 the mask became an essential item in our life.
+  <br/>  
 5. On July 31.2020, the city of Toronto went into stage 3 open, which is the gym and all other 
 public places are allowed to reopen, and we finally can get in touch with people and socialize with 
 others.
+  <br/>  
 6. On August 10.2020, it was the first summer after the coronavirus outbreak, and the city saw a 
 significant decline in new cases.
+  <br/>  
 7. From September 1.2020 to October 1.2020, affected cases began to rise steadily, Toronto, the 
 peel region, the York Region, and Ottawa went back into stage 2 again because of the rising viral 
 spread, and all the cinemas, gyms, bars, etc. closed again.
+  <br/>  
 8. In July 23.2020, the city of Toronto was placed under lockdown again, and our life returned to 
 isolation again.
+  <br/>  
 9. On December 15.2020, with the overall plans for Covid-19 vaccinations across Canada, people 
 have more hopes against the virus.
+  <br/>  
 10. On December 26.2020, the government declared a province-wide shutdown. All the people in 
 Ontario had to stay at home and cut off social contact with others.
+  <br/>  
 11. On January 1.2021, the province declared stay-at-home orders for the entire province. It was 
 the craziest order I have ever heard because the government did not recommend people go out for 
 any unessential activity, such as driving around.
+  <br/>  
 12. On March 8.2021, Toronto temporarily cancelled the stay-at-home orders, and people could 
 finally go out.
+  <br/>  
 13. On April 3.2021, following an uptick in new cases in Ontario, the province was exacerbated 
 by more aggressive variants of SARS-CoV-2, and the virus became more infectious and 
 dangerous.
+  <br/>  
 14. On June 2.2021, the province finally started to reopen, and stages reopened the city of 
 Toronto.
+  <br/>  
 15. On March 21.2022, most provincial masking regulations were lifted by the government, so 
 people could finally choose to wear masks or not according to their wishes.
+  <br/>  
 16. On May 9.2022, the mayor John announced the termination of Toronto's Covid-19 state of 
-emergency after being in effect for 777days.
+emergency after being in effect for 777 days.
 </details>
 
 <br/>
@@ -203,7 +220,9 @@ emergency after being in effect for 777days.
 In  this  project,  I  decided  to  to  a  project  about  time.  The  theme  of  this  project  is  peaceful, 
 slow flow of life can let me feel relax and peaceful. When I need to relax, I always choose to sit 
 on my balcony to view the scene. So, in this project I shoot the daylight view on my balcony and 
-the  night  view  on  it.  I  also  recorded  the  sound  on  the  balcony  to  let  the  audience  feeling  more 
+the  night  view  on  it.  
+  <br/>  
+  I  also  recorded  the  sound  on  the  balcony  to  let  the  audience  feeling  more 
 about the atmosphere. I used p5 to write a code to show the day view and night view, when the 
 mouse touch the picture, it will changed into different views. When I show this project in class, i 
 want my classmates feel peaceful and relax.  
@@ -222,13 +241,13 @@ community. These issues have been present for a long time, yet progression seems
 be very slow, with some changes causing us to back track instead of progress. We live
 in a world where transphobia is normalized, women are silenced, and men struggle to
 open up about their mental health.  
-  
+  <br/>  
  I try to bring awareness to these issues by sharing the views of those that have suffered from certain stigmas and stereotypes. The colour
 of the points for each prompt remains the same to show the interconnectedness of
 struggle between groups that face stigmas. The quotations that appear when hovering
 over points share supportive messages or cries for help from individuals around that
 region of Canada. 
-  
+  <br/>  
   The quotations can be very heavy and for that reason I try to create a
 welcoming visually minimalistic yet appealing digital format of delivering these stories
 and messages to the viewer in a digestible and approachable way. For progression to
@@ -245,6 +264,6 @@ today.
   <br/>
 The name of my project is called See-Wave. See-Wave was built with P5.js. It takes sound from microphone as an input and uses FFT (Fast Fourier Transformation) to filter the sound input. We always use computers to extract, transform, load, as well as analyze data. We tend to forget that mouse and keyboard are not the only intermediates that connect us to the computer’s brain. They way microphone takes in our sound is very similar to how we have conversations with people, instead, we are talking to the computer. 
   
-  
+  <br/>  
  The code reacts to the sound around the microphone, and simultaneously filter and plot the sound wave on to the screen. The pitch of the sound, and the volume of the sound both take effect on the shape of the sound wave. However, talking to the microphone is not the only way to connect with computers via sound; We can also touch the microphone. By looking at the sound wave while touching the microphone, we get a sense of how ‘pleased’ the computer is. The faster we rub the microphone, the more disperse the wave is ---- faster motion creates louder, or in other word, noisier sound. The code dose not store any sound data from the microphone, everything presented corresponds to real-time data. It reminds us how living for the moment is important. People nowadays spend too much time looking at historical data, which creates a sense of living in the past. I’d like to have people to capture the pleasure they experience at this very moment by interacting with See-Wave.
 </details>
