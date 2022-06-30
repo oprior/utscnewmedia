@@ -3,7 +3,7 @@
 
 Here are some example projects from Assignment 1: Data and Time
 
-### Assignment Overview
+## Assignment Overview
 
 Data builds in richness and density over time. In this assignment, you will use p5.js to create a data visualization that responds to either a physical or digital input that reflects changes in data over time. The definition of time is up to the individual (such as time can be interpreted as an event that occurs, even intervals like every 15 minutes, etc.) The final output of this work can be a live reactive piece of work or a series of documented data events. Altering images, responding to sound, body movements, keystrokes, performance, augmenting video, and printing visualizations are all options, but not limited to, for you to explore your assignment
 
