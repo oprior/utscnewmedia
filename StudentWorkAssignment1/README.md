@@ -13,7 +13,10 @@ Data builds in richness and density over time. In this assignment, you will use 
 
 <details>
   <summary>Project Description</summary>
- This artwork is collecting minutes, and more than 100 lines will be outputted every minute to create unique pictures. A reason why I create a time-related artwork is that I sometimes forget how important time is. Time is finite, and we consume the same amount of time during our lives. However, we do not care if a minute has passed because a minute is very short, and it will pass before we realize it. Also, in creating this artwork, I faced three challenges. The first challenge was that outputting random lines with the random RGB colours resulted in less beautiful pictures. Therefore, to make unique pictures beautiful every minute, I wrote a code which finally tries to select similar numbers with the RGB color which sets every minute. The second challenge was how to express different ways of spending time while sharing 'the same amount of time." Then, I came up with using a QR code to share the code to create their own unique picture per minute. There is no physical input because no one cannot control time. The third challenge was how to update each minute on the canvas. Unfortunately, I did not know how to erase the outputted subject from the canvas, so I created a code in which lines are densely overlaid to realize time updates.
+  
+ This artwork is collecting minutes, and more than 100 lines will be outputted every minute to create unique pictures. A reason why I create a time-related artwork is that I sometimes forget how important time is. Time is finite, and we consume the same amount of time during our lives. However, we do not care if a minute has passed because a minute is very short, and it will pass before we realize it. 
+  
+  Also, in creating this artwork, I faced three challenges. The first challenge was that outputting random lines with the random RGB colours resulted in less beautiful pictures. Therefore, to make unique pictures beautiful every minute, I wrote a code which finally tries to select similar numbers with the RGB color which sets every minute. The second challenge was how to express different ways of spending time while sharing 'the same amount of time." Then, I came up with using a QR code to share the code to create their own unique picture per minute. There is no physical input because no one cannot control time. The third challenge was how to update each minute on the canvas. Unfortunately, I did not know how to erase the outputted subject from the canvas, so I created a code in which lines are densely overlaid to realize time updates.
 </details>
 
 
@@ -21,10 +24,12 @@ Data builds in richness and density over time. In this assignment, you will use 
 
 <details>
   <summary>Project Description</summary>
+  
  The theme of my work is that there are some things you can't do no matter how hard you try. My inspiration 
 came  from  our  workshop1.  We  learned  how  to  fill  the  entire  canavas  with  random  shapes.  I  thought 
 backwards  and  tried  to  use  random  graphics  to  clear  the  pattern  on  the  canavas.  This  is  very  interesting. 
-What's more interesting is that because I didn't find the right parameters, I can't clear the computer-generated 
+
+  What's more interesting is that because I didn't find the right parameters, I can't clear the computer-generated 
 patterns on the canavas when I randomly generate patterns. This got me thinking. In theory, as long as I press 
 the mouse fast enough to clear the canavas. But it can't be done, just like some things in life, no matter how 
 many times you try, you just can't get it done. At the same time, I also randomly generate the number of 
@@ -35,11 +40,13 @@ mouse clicks, so I can see how many times the mouse is clicked at any time.
 ### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/week1/helloWorld)
 <details>
   <summary>Project Description</summary>
+  
  In my work “Dopamine and Serotonin”, the program is presented as a simple start button
 followed by a timer, counter for clicks and a button that says click. Upon clicking, a random word
 from a list of words is printed onto the screen in a random size and location. Upon further
 inspection, the button that says click doesn’t actually have any impact on the program and one
 can click anywhere on the screen to make words pop up.
+  
 The idea behind this work comes from interactions on our phones on social media in an attempt
 to produce dopamine and serotonin through various interactions on them. The work attempts to
 simplify the interactions we go through on our phones to the core of the interaction by removing
@@ -63,6 +70,7 @@ microphone. Once the participant speaks, the ellipses on the canvas of the progr
 will simultaneously duplicate and the size and color will also change, which is based 
 on the frequency and volume of the sound. At the end, the participant can save the 
 canvas as an image file, this is their mood chart for today.
+  
 This work uses data generated from the audio. Time plays a crucial role in this project 
 because the chart looks different in every second as the data of the audio builds in 
 richness and the ellipses change based on the data over time. The idea of this project 
@@ -81,16 +89,16 @@ moods and emotional changes,
 ### Myuri Srikugan | [More Progression](/utscnewmedia/week1/helloWorld)
 <details>
   <summary>Project Description</summary>
- Using three prompts, I tempt viewers to engage with my work and explore some
-stigmas placed on different groups within our society. There are three numbered buttons
+ Using three prompts, I tempt viewers to engage with my work and explore some stigmas placed on different groups within our society. There are three numbered buttons
 present, each in accordance to a prompt, and when each is pressed; different points on
 the map of Canada will pop up respectfully with stories of individuals that have faced
 some form of struggle that is often dismissed by institutions, the government and our
 community. These issues have been present for a long time, yet progression seems to
 be very slow, with some changes causing us to back track instead of progress. We live
 in a world where transphobia is normalized, women are silenced, and men struggle to
-open up about their mental health. I try to bring awareness to these issues by sharing
-the views of those that have suffered from certain stigmas and stereotypes. The colour
+open up about their mental health. 
+  
+ I try to bring awareness to these issues by sharing the views of those that have suffered from certain stigmas and stereotypes. The colour
 of the points for each prompt remains the same to show the interconnectedness of
 struggle between groups that face stigmas. The quotations that appear when hovering
 over points share supportive messages or cries for help from individuals around that
