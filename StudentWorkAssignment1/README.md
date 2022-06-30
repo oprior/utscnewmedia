@@ -9,7 +9,7 @@ Data builds in richness and density over time. In this assignment, you will use 
 
 ## Student Work
 
-### Keita Fujiyama | [Untitled](/utscnewmedia/week1/helloWorld)
+### Keita Fujiyama | [Untitled](/utscnewmedia/StudentWorkAssignment1/keitaFujiyama/)
 
 <details>
   <summary>Project Description</summary>
@@ -20,7 +20,7 @@ Data builds in richness and density over time. In this assignment, you will use 
 </details>
 
 
-### Linjun He  | [Untitled](/utscnewmedia/week1/helloWorld)
+### Linjun He  | [Untitled](/utscnewmedia/StudentWorkAssignment1/linjunHe/)
 
 <details>
   <summary>Project Description</summary>
@@ -37,7 +37,7 @@ mouse clicks, so I can see how many times the mouse is clicked at any time.
 </details>
 
 
-### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/week1/helloWorld)
+### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/StudentWorkAssignment1/tylerKim)
 <details>
   <summary>Project Description</summary>
   
@@ -60,7 +60,7 @@ can to get more “dopamine and serotonin”.
 </details>
 
   
-### Jennifer Kuang | [Today's Mood Chart](/utscnewmedia/week1/helloWorld)
+### Jennifer Kuang | [Today's Mood Chart](/utscnewmedia/StudentWorkAssignment1/jenniferKuang)
 <details>
   <summary>Project Description</summary>
  Today’s Mood Chart is an interactive p5.js program that visualizes audio and 
@@ -87,7 +87,7 @@ moods and emotional changes,
 </details>
 
   
-### Myuri Srikugan | [More Progression](/utscnewmedia/week1/helloWorld)
+### Myuri Srikugan | [More Progression](/utscnewmedia/StudentWorkAssignment1/myuriSrikugan)
 <details>
   <summary>Project Description</summary>
  Using three prompts, I tempt viewers to engage with my work and explore some stigmas placed on different groups within our society. There are three numbered buttons
@@ -115,7 +115,7 @@ Progression, I hope to bring awareness to a few taunting issues present in Canad
 today. 
 </details>
 
-### Zhe Wang | [See-Wave](/utscnewmedia/week1/helloWorld)
+### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
   <summary>Project Description</summary>
 The name of my project is called See-Wave. See-Wave was built with P5.js. It takes sound from microphone as an input and uses FFT (Fast Fourier Transformation) to filter the sound input. We always use computers to extract, transform, load, as well as analyze data. We tend to forget that mouse and keyboard are not the only intermediates that connect us to the computer’s brain. They way microphone takes in our sound is very similar to how we have conversations with people, instead, we are talking to the computer. 
