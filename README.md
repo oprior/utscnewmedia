@@ -27,7 +27,7 @@ Here you will be able to test out code from class!
   * [Counter](/utscnewmedia/week1/counterExample)
   * [Counter & Reset Button](/utscnewmedia/week1/resetButton)
 
-## [Student Examples] (/utscnewmedia/StudentWorkAssignment1)
+## [Student Examples](/utscnewmedia/StudentWorkAssignment1)
 
 ## Week 5 Examples
 
