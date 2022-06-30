@@ -20,6 +20,7 @@ Data builds in richness and density over time. In this assignment, you will use 
 </details>
 
 <br/>
+
 ### Linjun He  | [Untitled](/utscnewmedia/StudentWorkAssignment1/linjunHe/)
 
 <details>
@@ -36,7 +37,9 @@ many times you try, you just can't get it done. At the same time, I also randoml
 mouse clicks, so I can see how many times the mouse is clicked at any time. 
 </details>
 
-<br/>### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/StudentWorkAssignment1/tylerKim)
+<br/>
+
+### Tyler Kim  | [Dopamine and Serotonin](/utscnewmedia/StudentWorkAssignment1/tylerKim)
 <details>
   <summary>Project Description</summary>
   <br/>
@@ -59,6 +62,7 @@ can to get more “dopamine and serotonin”.
 </details>
 
  <br/>
+ 
 ### Jennifer Kuang | [Today's Mood Chart](/utscnewmedia/StudentWorkAssignment1/jenniferKuang)
 <details>
   <summary>Project Description</summary>
@@ -84,7 +88,8 @@ relationships, but seldom sit down and ask ourselves, “Am I happy today?” Th
 hopes that this work can make the audience become aware of their own everyday 
 moods and emotional changes,   
 </details>
-```
+
+<br/>
   
 ### Myuri Srikugan | [More Progression](/utscnewmedia/StudentWorkAssignment1/myuriSrikugan)
 <details>
@@ -112,6 +117,7 @@ Progression, I hope to bring awareness to a few taunting issues present in Canad
 today. 
 </details>
 <br/>
+
 ### Zhe Wang | [See-Wave](/utscnewmedia/StudentWorkAssignment1/zheWang)
 <details>
   <summary>Project Description</summary>
