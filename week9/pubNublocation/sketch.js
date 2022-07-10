@@ -51,6 +51,11 @@ function setup() {
     textAlign(CENTER);
 
     sendTheMessage();
+
+    textSize(windowWidth*0.04);
+    text("Latitude: " + locationParams.latitude, windowWidth/2, windowHeight/2);
+    text("Longitude: " + locationParams.latitude, windowWidth/2, (windowHeight/2) + (windowWidth*0.04) + windowWidth*0.06);
+
 }
   
 function draw() {
