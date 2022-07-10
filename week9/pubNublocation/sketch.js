@@ -12,12 +12,12 @@ let you;
 let history;
 
 var url = new URL(window.location.href);
-let location = {
+let locationParams = {
   latitude: url.searchParams.get("lat"),
   longitude: url.searchParams.get("long")
 }
 
-console.log(location);
+console.log(locationParams);
 
 function preload() { 
 
@@ -102,7 +102,7 @@ function sendTheMessage() {
   // Send Data to the server to draw it in all other canvases
   dataServer.publish({
     channel: channelName,
-    message: location,
+    message: locationParams
   });
 
 }
